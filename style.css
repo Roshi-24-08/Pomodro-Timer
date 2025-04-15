@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  #timer {
+    font-weight: bold;
+    color: #e74c3c;
+  }
+  
+  button {
+    width: 100px;
+  }
+  
+  
